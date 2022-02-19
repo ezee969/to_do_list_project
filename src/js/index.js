@@ -16,7 +16,6 @@ import '../style/style.css';
       this.updateTodayTaskNumber();
       this.updateNextTaskNumber();
       this.updateOldTaskNumber();
-      console.log(window.localStorage);
     }
 
     cacheDom() {
